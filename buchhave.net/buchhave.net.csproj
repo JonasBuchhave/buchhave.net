@@ -128,9 +128,7 @@
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <Content Include="Views\Home\Index.cshtml" />
-    <Content Include="Views\Shared\ElementsMaster.cshtml" />
     <Content Include="Views\Shared\GenericMaster.cshtml" />
-    <Content Include="Views\Shared\IndexMaster.cshtml" />
     <Content Include="Views\Home\Menu.cshtml" />
     <Content Include="Views\Home\Generic.cshtml" />
     <Content Include="Views\Home\Elements.cshtml" />
