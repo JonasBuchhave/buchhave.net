@@ -129,7 +129,7 @@
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\GenericMaster.cshtml" />
-    <Content Include="Views\Home\Menu.cshtml" />
+    <Content Include="Views\Shared\Menu.cshtml" />
     <Content Include="Views\Home\Generic.cshtml" />
     <Content Include="Views\Home\Elements.cshtml" />
     <None Include="Web.Debug.config">
